@@ -1,0 +1,136 @@
+[
+  {
+    "name": "audio",
+    "path": "/audio",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\audio\\\\index.vue",
+    "chunkName": "pages/audio/index",
+    "_name": "_8dd83244"
+  },
+  {
+    "name": "aut",
+    "path": "/aut",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\aut\\\\index.vue",
+    "chunkName": "pages/aut/index",
+    "_name": "_34af6798"
+  },
+  {
+    "name": "bbb",
+    "path": "/bbb",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\bbb\\\\index.vue",
+    "chunkName": "pages/bbb/index",
+    "_name": "_ed620cdc"
+  },
+  {
+    "name": "download",
+    "path": "/download",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\download\\\\index.vue",
+    "chunkName": "pages/download/index",
+    "_name": "_50899798"
+  },
+  {
+    "name": "file",
+    "path": "/file",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\file\\\\index.vue",
+    "chunkName": "pages/file/index",
+    "_name": "_3bc61524"
+  },
+  {
+    "name": "guide",
+    "path": "/guide",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\guide\\\\index.vue",
+    "chunkName": "pages/guide/index",
+    "_name": "_765473f8"
+  },
+  {
+    "name": "text",
+    "path": "/text",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\text\\\\index.vue",
+    "chunkName": "pages/text/index",
+    "_name": "_3fdbbcd3"
+  },
+  {
+    "name": "video",
+    "path": "/video",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\video\\\\index.vue",
+    "chunkName": "pages/video/index",
+    "_name": "_49b60519"
+  },
+  {
+    "name": "bbb-a",
+    "path": "/bbb/a",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\bbb\\\\a.js",
+    "chunkName": "pages/bbb/a",
+    "_name": "_02db21ce"
+  },
+  {
+    "name": "bbb-dd",
+    "path": "/bbb/dd",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\bbb\\\\dd.js",
+    "chunkName": "pages/bbb/dd",
+    "_name": "_58cb089f"
+  },
+  {
+    "name": "file-a",
+    "path": "/file/a",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\file\\\\a.js",
+    "chunkName": "pages/file/a",
+    "_name": "_224192fc"
+  },
+  {
+    "name": "guide-next",
+    "path": "/guide/next",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\guide\\\\next\\\\index.vue",
+    "chunkName": "pages/guide/next/index",
+    "_name": "_9660b5b6"
+  },
+  {
+    "name": "guide-themes-mobile-theme.min",
+    "path": "/guide/themes/mobile/theme.min",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\guide\\\\themes\\\\mobile\\\\theme.min.js",
+    "chunkName": "pages/guide/themes/mobile/theme.min",
+    "_name": "_870b9b70"
+  },
+  {
+    "name": "guide-themes-silver-theme.min",
+    "path": "/guide/themes/silver/theme.min",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\guide\\\\themes\\\\silver\\\\theme.min.js",
+    "chunkName": "pages/guide/themes/silver/theme.min",
+    "_name": "_f87d451a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_69e4cc20"
+  },
+  {
+    "path": "/:dat",
+    "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\_dat.vue",
+    "chunkName": "pages/_dat",
+    "children": [
+      {
+        "name": "dat",
+        "path": "",
+        "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\dat\\\\index.vue",
+        "chunkName": "pages/dat/index",
+        "_name": "_2df5b206"
+      },
+      {
+        "name": "dat-divs",
+        "path": "divs",
+        "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\dat\\\\divs.vue",
+        "chunkName": "pages/dat/divs",
+        "_name": "_7732e6b2"
+      },
+      {
+        "name": "dat-subDat-id",
+        "path": ":subDat/:id?",
+        "component": "D:\\\\Windows 10 Documents\\\\Desktop\\\\myTest\\\\pages\\\\dat\\\\_subDat\\\\_id.vue",
+        "chunkName": "pages/dat/_subDat/_id",
+        "_name": "_7cd79a49"
+      }
+    ],
+    "_name": "_4a8f80fa"
+  }
+]
